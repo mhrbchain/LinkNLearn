@@ -1,0 +1,24 @@
+body
+{
+	background-image: url('background_drawing.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+@media (min-width: 960px)
+{
+	body
+	{
+		background-position-y: 0px;
+	}
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #FFFFFF;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #FFFFFF;
+    background-color: transparent;
+}

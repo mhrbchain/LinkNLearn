@@ -1,0 +1,39 @@
+.navbar{
+	margin-bottom: 0px;
+}
+.navbar-static-top{
+	border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #f1f1f1;
+}
+
+.navbar-default .navbar-brand {
+    color: #f1f1f1;
+}
+
+.pdf
+{
+	padding-left: 250px;
+	padding-right: 100px;
+	width: 1200px;
+	border: 0;
+	
+}
+
+.para
+{	color: rgb(55, 95, 247);
+	padding-left: 250px;
+	padding-top: 50px;
+	font-size: 30px;
+}
+
+.para1
+{	color: rgb(55, 95, 247);
+	padding-left: 250px;
+	padding-top: 50px;
+	font-size: 25px;
+}
+
+

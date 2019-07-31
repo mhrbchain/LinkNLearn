@@ -1,0 +1,14 @@
+body
+{
+	background-image: url('LinknLearn.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+@media (min-width: 960px)
+{
+	body
+	{
+		background-position-y: -150px;
+	}
+}
